@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Denomination2
+comment1.params=x\ y\ z
+comment1.target=int\ check(int,\ int,\ int)
+comment2.params=a\ b
+comment2.target=void\ print(int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

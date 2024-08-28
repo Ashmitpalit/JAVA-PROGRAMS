@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Vector
+comment1.params=
+comment1.target=Vector()
+comment2.params=l\ m\ n
+comment2.target=Vector(double,\ double,\ double)
+comment3.params=v
+comment3.target=Vector\ add(Vector)
+comment4.params=
+comment4.target=double\ mod()
+comment5.params=v
+comment5.target=double\ dot(Vector)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

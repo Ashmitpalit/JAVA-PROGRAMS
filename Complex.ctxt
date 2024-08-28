@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Complex
+comment1.params=
+comment1.target=Complex()
+comment2.params=a\ b
+comment2.target=Complex(int,\ int)
+comment3.params=c
+comment3.target=Complex\ add(Complex)
+comment4.params=c
+comment4.target=Complex\ product(Complex)
+comment5.params=
+comment5.target=double\ modulus()
+comment6.params=
+comment6.target=void\ display()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

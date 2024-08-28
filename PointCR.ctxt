@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PointCR
+comment1.params=
+comment1.target=PointCR()
+comment2.params=a\ b
+comment2.target=PointCR(int,\ int)
+comment3.params=p1
+comment3.target=double\ distance(PointCR)
+comment4.params=m1
+comment4.target=PointCR\ midpoint(PointCR)
+comment5.params=
+comment5.target=void\ display()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

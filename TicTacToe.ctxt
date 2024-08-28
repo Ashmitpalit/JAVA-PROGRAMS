@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment1.params=
+comment1.target=TicTacToe()
+comment10.params=
+comment10.target=void\ gamePlay()
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ displayBoard()
+comment3.params=col\ item
+comment3.target=boolean\ colWise(int,\ char)
+comment4.params=row\ item
+comment4.target=boolean\ rowWise(int,\ char)
+comment5.params=item
+comment5.target=boolean\ rightDiagonal(char)
+comment6.params=item
+comment6.target=boolean\ leftDiagonal(char)
+comment7.params=x\ y
+comment7.target=boolean\ isCellFilled(int,\ int)
+comment8.params=x\ y\ item
+comment8.target=boolean\ isWinningConditionSatisfied(int,\ int,\ char)
+comment9.params=x\ y
+comment9.target=boolean\ isCorrectIndex(int,\ int)
+numComments=12

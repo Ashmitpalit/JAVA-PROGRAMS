@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Stack
+comment1.params=
+comment1.target=Stack()
+comment2.params=size
+comment2.target=Stack(int)
+comment3.params=item
+comment3.target=void\ push(int)
+comment4.params=
+comment4.target=void\ pop()
+comment5.params=
+comment5.target=void\ peek()
+comment6.params=
+comment6.target=void\ displayStack()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

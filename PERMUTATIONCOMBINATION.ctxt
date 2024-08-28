@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PERMUTATIONCOMBINATION
+comment1.params=n\ r
+comment1.target=int\ PERMUTATION(int,\ int)
+comment2.params=n\ r
+comment2.target=int\ COMBINATION(int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

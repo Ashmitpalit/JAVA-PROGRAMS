@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GeneratePalindrome
+comment1.params=n
+comment1.target=long\ reverse(long)
+comment2.params=n
+comment2.target=boolean\ isPalindrome(long)
+comment3.params=n
+comment3.target=void\ generate(long)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
